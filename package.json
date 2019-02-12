@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/qwtel/hy-elements/issues"
   },
-  "homepage": "https://github.com/qwtel/hy-elements#readme"
+  "homepage": "https://github.com/qwtel/hy-elements#readme",
+  "keywords": ["element-collection"]
 }
