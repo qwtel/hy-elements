@@ -1,6 +1,6 @@
 # hy-elements
 
-Hy Elements is a small collection of web components I've built in the process of building [Hydejack](https://hydejack.com/).  
+hy-elements is a small collection of web components I've built in the process of building [Hydejack](https://hydejack.com/).  
 
 
 ## [hy-drawer](https://www.webcomponents.org/element/hy-drawer)
