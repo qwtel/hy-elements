@@ -1,0 +1,25 @@
+{
+  "name": "hy-elements",
+  "version": "1.0.0-pre.26",
+  "description": "Hy Elements is a small collection of web components I've built in the process of building [Hydejack](https://hydejack.com/).",
+  "main": "index.js",
+  "authors": [
+    "Florian Klampfer <mail@qwtel.com> (https://qwtel.com/)"
+  ],
+  "license": "GPL-3.0",
+  "keywords": [
+    "element-collection"
+  ],
+  "homepage": "https://github.com/qwtel/hy-elements",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "hy-drawer": "^1.0.0-pre.26",
+    "hy-push-state": "^1.0.0-pre.26"
+  }
+}
